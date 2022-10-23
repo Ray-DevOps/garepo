@@ -6,17 +6,19 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "lint": "node devops-ci-challenge/codebase",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ray-DevOps/actions-repo.git"
+    "url": "git+https://github.com/Ray-DevOps/garepo.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ray-DevOps/actions-repo/issues"
+    "url": "https://github.com/Ray-DevOps/garepo/issues"
   },
-  "homepage": "https://github.com/Ray-DevOps/actions-repo#readme",
+  "homepage": "https://github.com/Ray-DevOps/garepo#readme",
   "description": ""
 }
+ 
